@@ -1,0 +1,17 @@
+{
+  "name": "folderize",
+  "version": "0.0.1",
+  "description": "Sorts the files into extension named folders",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "files",
+    "folders",
+    "nodejs",
+    "organize"
+  ],
+  "author": "Dhanesh Purohit <dhanesh.purohit@gmail.com>",
+  "license": "ISC"
+}
